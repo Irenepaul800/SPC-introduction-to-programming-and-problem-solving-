@@ -20,7 +20,7 @@ int age;
  if( age >= 21& annual_income >=21000){
  printf(" \ncongratulations, you qualify for a loan.");
   } else{
-  printf("unfortunately,we are unable to offer you a loan");
+  printf("unfortunately,we are unable to offer you a loan at this time");
   }
   
    return 0;
