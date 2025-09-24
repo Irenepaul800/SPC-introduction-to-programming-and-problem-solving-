@@ -1,4 +1,4 @@
-//simple c program (semester units)single line comment
+
 /*
 Name: Irene Mwethya paul
 Reg No:CT101/G/26535
@@ -16,4 +16,5 @@ int main () {
     printf("unit 6: SPM 2102 Introduction to computer Architecture \n");
     printf("unit 7: SPM 2101 Introduction to programming and problem solving  \n");
     printf("unit 8: SPM 2104 Mathematics for science \n");
+return 0;
         }
