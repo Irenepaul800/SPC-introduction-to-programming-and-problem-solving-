@@ -19,7 +19,7 @@ int main() {
   int  number;
      printf("\nenter my number \n");
      scanf("%d",& number);// prompt user input   
-     printf("my number is  %d ");
+     printf("my number is  %d ", number);
      
      return 0;
   }   
